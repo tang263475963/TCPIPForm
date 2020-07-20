@@ -1,0 +1,10 @@
+D:\C-Network\TCPIP-From\TCPIP-From\obj\Debug\TCPIP-From.csprojAssemblyReference.cache
+D:\C-Network\TCPIP-From\TCPIP-From\obj\Debug\TCPIP_From.Server.resources
+D:\C-Network\TCPIP-From\TCPIP-From\obj\Debug\TCPIP_From.Properties.Resources.resources
+D:\C-Network\TCPIP-From\TCPIP-From\obj\Debug\TCPIP-From.csproj.GenerateResource.cache
+D:\C-Network\TCPIP-From\TCPIP-From\obj\Debug\TCPIP-From.csproj.CoreCompileInputs.cache
+D:\C-Network\TCPIP-From\TCPIP-From\bin\Debug\TCPIP-From.exe.config
+D:\C-Network\TCPIP-From\TCPIP-From\bin\Debug\TCPIP-From.exe
+D:\C-Network\TCPIP-From\TCPIP-From\bin\Debug\TCPIP-From.pdb
+D:\C-Network\TCPIP-From\TCPIP-From\obj\Debug\TCPIP-From.exe
+D:\C-Network\TCPIP-From\TCPIP-From\obj\Debug\TCPIP-From.pdb

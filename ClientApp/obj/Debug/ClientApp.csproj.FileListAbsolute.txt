@@ -1,0 +1,10 @@
+D:\C-Network\TCPIP-From\ClientApp\bin\Debug\ClientApp.exe.config
+D:\C-Network\TCPIP-From\ClientApp\bin\Debug\ClientApp.exe
+D:\C-Network\TCPIP-From\ClientApp\bin\Debug\ClientApp.pdb
+D:\C-Network\TCPIP-From\ClientApp\obj\Debug\ClientApp.csprojAssemblyReference.cache
+D:\C-Network\TCPIP-From\ClientApp\obj\Debug\ClientApp.Client.resources
+D:\C-Network\TCPIP-From\ClientApp\obj\Debug\ClientApp.Properties.Resources.resources
+D:\C-Network\TCPIP-From\ClientApp\obj\Debug\ClientApp.csproj.GenerateResource.cache
+D:\C-Network\TCPIP-From\ClientApp\obj\Debug\ClientApp.csproj.CoreCompileInputs.cache
+D:\C-Network\TCPIP-From\ClientApp\obj\Debug\ClientApp.exe
+D:\C-Network\TCPIP-From\ClientApp\obj\Debug\ClientApp.pdb
